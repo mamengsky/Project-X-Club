@@ -1,5 +1,5 @@
 export const discordConfig = {
-  webhookUrl: 'https://discord.com/api/webhooks/1313599353469796352/__DENL67b8xplxpJUDlF8HHkw1VbqgthTf8iRAUqQgEF7oDVl10ldOCjg_HUE1pyfTm-',
+  webhookUrl: 'https://discord.com/api/webhooks/1313896680898428999/dtTm5XR05sVkHOtR7R5CiHmYIMdSxs5Lv7iYwCpvWWBtCa3I36mWQeYUhKrBYKu5ua5C',
   usernames: {
     bossSafe: 'X Club Boss Safe Monitor',
     memberSafe: 'X Club Member Safe Monitor',
